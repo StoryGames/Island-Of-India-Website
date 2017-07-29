@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/IndiaOwnsEarth" version="1.0.0" height="800" width="480" viewmodes="fullscreen">
+    <tizen:application id="OeLWBjyryy.IndiaOwnsEarth" package="OeLWBjyryy" required_version="2.4" launch_mode="single"/>
+    <author> email="authornavirevilo@gmail.com">Navi Revilo</author>
+    <content src="index.html"/>
+    <description>Welcome to the Island Of India! This unique Story Game combines creative storytelling, multiple choice games, educational elements and amazing graphics. India Owns Earth will be enjoyed by brilliant minds everywhere. Come explore the future with Story Games on Tizen!</description>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png"/>
+    <name xml:lang="en-gb">English</name>
+    <name>India Owns Earth</name>
+    <tizen:privilege name="http://tizen.org/privilege/fullscreen"/>
+    <tizen:profile name="mobile"/>
+    <tizen:setting screen-orientation="portrait" context-menu="disable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>
